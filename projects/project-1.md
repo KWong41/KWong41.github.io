@@ -5,12 +5,12 @@ image: images/micromouse.jpg
 title: Air Force Lead Cook
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2007-05-05
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - General Curtis E. LeMay award for outstanding service in a Dining Facility
+  - Managed and trained 40+ military members how to properly operate a Dining Facility
+  - Saved nearly $10m in funds by carefully managing resources to alleviate waste
+summary: My team won the General Curtis E. LeMay award for outstanding service in a Dining Facility.
 ---
 
 <div class="ui small rounded images">
