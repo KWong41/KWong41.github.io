@@ -6,7 +6,7 @@ image: /images/AirForce.jpg
 title: Deployment 
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2001-01-01 - 2001-06-09
+date: 2001-01-01
 labels:
   - 
   - 
