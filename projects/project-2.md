@@ -7,11 +7,6 @@ title: Deployment
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2001-01-01
-labels:
-  - 
-  - 
-  -
-  -
 summary: Successful deployment in Afghanistan in early 2011.
 ---
 
