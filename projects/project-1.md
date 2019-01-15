@@ -4,9 +4,7 @@ type: project
 image: images/airforce.jpg
 title: Micromouse
 permalink: projects/micromouse
-date: 2015-07-01
-labels:
-    date: 2007-05-05
+date: 2007-05-05
 labels:
     - General Curtis E. LeMay award for outstanding service in a Dining Facility
 - Managed and trained 40+ military members how to properly operate a Dining Facility
