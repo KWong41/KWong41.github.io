@@ -2,17 +2,16 @@
 layout: project
 type: project
 image: images/AirForce.jpg
-labels: 
-  - filler
-title: Deployment 
-permalink: projects/vacay
-# All dates must be YYYY-MM-DD format!
-date: 2001-01-01
-summary: Successful deployment in Afghanistan in early 2011.
+title: Military Guest Service Specialist
+permalink: projects/militaryGuestServiceSpecialist
+date: 2007-09-01
+labels:
+- filler
+summary: My team won the General Curtis E. LeMay award for outstanding service in a Dining Facility.
 ---
 
-
-
-  Maintained a successful deployment in Afghanistan by keeping sustainment of a camp by utilizing culinary arts to learn how to properly manage a team of local nationals to complete meals for US and allied troops three times a day.  This became my job for about six months.  As time progressed, this became progressively harder because my area was close to enemy forces.  The fact that we were close to enemy forces meant that we were on high danger territory.  
-  
-
+September 1st, 2007 – September 23rd, 2009 Guest Service Specialist,  Pike's Peak Lodge, Peterson AFB, CO 
+· Work effort aided 21st force support squadron in winning 2008 Air Force Space Command Gen Curtis E. LeMay award as best unit in Air Force Space Command
+· Thorough attention to detail; aided in management of 22K guest/DV rooms which generated $100K in revenue. (Generated $100K during (explain which year or quarter during budget) by aiding management with 22K guests.
+· Leader,  Filled a managerial position as shift supervisor for three personnel that led to $40K in receipts and 100% accountability  (Worked as a shift supervisor and has (# direct reports) as needed
+· Ensured proper utilization of 232 rooms; maintained 91% occupancy rate which also exceeded Air Force's standards by 15% (Ensured proper utilization of 232 rooms by following (which guidelines or standard operating procedures (SOPs))
