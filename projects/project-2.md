@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/Air Force.jpg
+image: /images/AirForce.jpg
 
 title: Deployment 
 permalink: projects/vacay
