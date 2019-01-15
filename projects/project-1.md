@@ -6,7 +6,7 @@ title: Micromouse
 permalink: projects/micromouse
 date: 2007-05-05
 labels:
-    - General Curtis E. LeMay award for outstanding service in a Dining Facility
+- General Curtis E. LeMay award for outstanding service in a Dining Facility
 - Managed and trained 40+ military members how to properly operate a Dining Facility
 - Saved nearly $10m in funds by carefully managing resources to alleviate waste
 summary: My team won the General Curtis E. LeMay award for outstanding service in a Dining Facility.
