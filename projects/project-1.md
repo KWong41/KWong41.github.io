@@ -1,9 +1,9 @@
 ---
-    layout: project
+layout: project
 type: project
 image: images/airforce.jpg
 title: Micromouse
-permalink: projects/micromouse
+permalink: projects/militarycook
 date: 2007-05-05
 labels:
 - General Curtis E. LeMay award for outstanding service in a Dining Facility
