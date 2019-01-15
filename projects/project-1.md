@@ -1,15 +1,16 @@
 ---
-layout: project
+    layout: project
 type: project
-image: /images/AirForce.jpg
-title: Air Force Lead Cook
+image: images/airforce.jpg
+title: Micromouse
 permalink: projects/micromouse
-# All dates must be YYYY-MM-DD format!
-date: 2007-05-05
+date: 2015-07-01
 labels:
-  - General Curtis E. LeMay award for outstanding service in a Dining Facility
-  - Managed and trained 40+ military members how to properly operate a Dining Facility
-  - Saved nearly $10m in funds by carefully managing resources to alleviate waste
+    date: 2007-05-05
+labels:
+    - General Curtis E. LeMay award for outstanding service in a Dining Facility
+- Managed and trained 40+ military members how to properly operate a Dining Facility
+- Saved nearly $10m in funds by carefully managing resources to alleviate waste
 summary: My team won the General Curtis E. LeMay award for outstanding service in a Dining Facility.
 ---
 
@@ -21,5 +22,4 @@ summary: My team won the General Curtis E. LeMay award for outstanding service i
 · Leader,  Filled a managerial position as shift supervisor for three personnel that led to $40K in receipts and 100% accountability.
 
 · Ensured proper utilization of 232 rooms; maintained 91% occupancy rate which also exceeded Air Force's standards by 15% (Ensured proper utilization of 232 rooms by following (which guidelines or standard operating procedures (SOPs)).
-
 
