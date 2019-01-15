@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/AirForce.jpg
+image: /images/AirForce.jpg
 title: Air Force Lead Cook
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
