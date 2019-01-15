@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Air Force.jpg
+image: images/AirForce.jpg
 title: Air Force Lead Cook
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
@@ -13,12 +13,6 @@ labels:
 summary: My team won the General Curtis E. LeMay award for outstanding service in a Dining Facility.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
 
 · Work effort aided 21st force support squadron in winning 2008 Air Force Space Command Gen Curtis E. LeMay award as best unit in Air Force Space Command.
 
