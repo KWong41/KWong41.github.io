@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Air Force.png
+image: /images/AirForce.jpg
 title: 
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
