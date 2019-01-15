@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: images/Air Force.png
+image: /images/Air Force.jpg
+
 title: Deployment 
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
