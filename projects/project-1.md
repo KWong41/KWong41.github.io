@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/AirForce.jpg
-title: Micromouse
+title: Military lead cook
 permalink: projects/militarycook
 date: 2007-05-05
 labels:
