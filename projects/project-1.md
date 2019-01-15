@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/airforce.jpg
+image: images/AirForce.jpg
 title: Micromouse
 permalink: projects/militarycook
 date: 2007-05-05
