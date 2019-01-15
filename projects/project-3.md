@@ -1,5 +1,5 @@
 ---
-    layout: project
+layout: project
 type: project
 image: images/airforce.jpg
 title: Air Force Guest Service Specialist
