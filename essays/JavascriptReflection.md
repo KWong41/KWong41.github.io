@@ -4,7 +4,7 @@ type: essay
 title: Javascript Reflection
 date: 2018-01-20
 labels:
-  - Software Engineering
+  - Javascript
   - Learning
 ---
 I found Javascript to be almost exactly the same as my previous studied language of Java.  I am a complete newbie when it comes to programming languages of Javascript, however the Javascript website, freecodecamp has helped me in learning how to code.  I feel like I am not much of a coder.  This website and also the practice WODs have been helpful in trying to understand javascript.  I didn’t completely understand how Java works but I feel like in this class, I will be able to understand javascript a little bit better with repetition and understanding.  
