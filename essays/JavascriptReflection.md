@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software development
+title: Javascript Reflection
 date: 2018-01-20
 labels:
   - Software Engineering
