@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kevin Wong",
-    "label": "Student",
+    "label": "Computer Science student",
     "picture": "https://KWong41.github.io/images/Professional Profile kwong.jpg",
     "email": "WongKevin41@gmail.com",
     "phone": "808-381-2967",
     "website": "https://KWong41.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a Bachelors in Science in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96801",
