@@ -7,7 +7,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-From the moment I picked up a video game controller, I have been always passionate about video games. I grew up playing games like Super Mario Brothers, Final Fantasy, Mega man, and Double Dragon. These games motivated me to become the next video game developer in any genre. As time progressed, I continued playing video games on consoles like the SNES, PS1, Xbox, Xbox 360, PS4, and Nintendo Switch. I am currently playing video games more on the PC. My passion for video games became stronger and stronger as time passed and it is at a point where I even enjoy video game music.
+From the moment I picked up a video game controller, I have been always passionate about video games. I grew up playing video games like Super Mario Bros, Final Fantasy, Mega Man, and Double Dragon. These games motivated me to become the next video game developer in any genre. As time progressed, I continued playing video games on consoles like the SNES, PS1, Xbox, Xbox 360, PS4, and Nintendo Switch. I am currently playing video games more on the PC. My passion for video games became stronger and stronger as time passed and it is at a point where I even enjoy video game music.
 
 I want to become an aspiring software developer specifically in the video game field. Previous video game developers like Shigeru Miyamoto (creator of the Super Mario Bros franchise) and Hironobu Sakaguchi (creator of the Final Fantasy franchise) have inspired me to become a video game developer myself. I understand that hard work and dedication can not just be given to you. It is a mindset that one person needs to have to become a success like these men had to be and I intend to work up to their level of greatness. 
 
