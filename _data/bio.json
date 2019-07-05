@@ -6,7 +6,7 @@
     "email": "WongKevin41@gmail.com",
     "phone": "808-381-2967",
     "website": "https://KWong41.github.io",
-    "summary": "I am studying for a Bachelors in Science in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a Bachelor's in Science in Computer Science at the University of Hawaii. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "98-1776 Ipuala Loop",
       "postalCode": "96801",
@@ -16,12 +16,12 @@
     },
     "profiles": [
       {
-        "network": "github",
+        "network": "Github",
         "username": "KWong41",
         "url": "http://github.com/KWong41"
       },
       {
-        "network": "linkedin",
+        "network": "Linkedin",
         "username": "WongKevin41",
         "url": "https://www.linkedin.com/in/wongkevin41/"
       },
