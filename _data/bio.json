@@ -72,11 +72,11 @@
   "education": [
     {
       "institution": "University of Hawai'i at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2020)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected graduation date: Fall, 2020)",
+      "studyType": "Bachelor's of Science.",
+      "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.2",
       "courses": [
       ]
     }
