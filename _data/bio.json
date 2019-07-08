@@ -47,7 +47,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Beginner",
       "keywords": [
         "HTML",
         "CSS",
@@ -77,7 +77,7 @@
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "3.2",
-      "courses": [
+      "courses": ["Introduction to Database Management(SQL/HTML), Data Structures and Algorithms"
       ]
     },
      {
@@ -86,8 +86,10 @@
       "studyType": "Associates in Science in Natural Sciences (STEM)",
       "startDate": "2015-09-01",
       "endDate": "2017-09-01",
-      "gpa": "3.2",
+      "gpa": "3.4",
       "courses": [
+        "Calculus I/II (Derivative and Integration techniques), Introduction to Computer Science I and II (Introduction to Java and Data Structures)",
+        "Discrete Mathematics for Computer Science I and II (theoretical algorithmic math, some Data Structure theory),  Physics I/II, General Chemistry I/II"
       ]
     }
   ],
