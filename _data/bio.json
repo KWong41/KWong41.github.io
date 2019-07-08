@@ -71,19 +71,19 @@
   ],
   "education": [
     {
-      "institution": "University of Hawai'i at Manoa, Honolulu, HI",
+      "institution": "University of Hawai'i at Manoa, Honolulu, Hawai'i",
       "area": "Computer Science (expected graduation date: Fall, 2020)",
       "studyType": "Bachelor's of Science.",
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "3.2",
-      "courses": ["Introduction to Database Management(SQL/HTML), Data Structures and Algorithms, Software Engineering I(introduction to Javascript, CSS, HTML, Meteor, and React",
+      "courses": ["Introduction to Database Management(SQL/HTML), Data Structures and Algorithms, Software Engineering I(introduction to Javascript, CSS, HTML, Meteor, and React)",
                   "Introduction to C# and C++",
                   "Introduction to Japanese IV"
       ]
     },
      {
-      "institution": "University of Hawai'i at Leeward Community College, Honolulu, HI",
+      "institution": "University of Hawai'i at Leeward Community College, Pearl City, Hawai'i",
       "area": "Computer Science",
       "studyType": "Associates in Science in Natural Sciences (STEM)",
       "startDate": "2015-09-01",
@@ -124,7 +124,7 @@
       ]
     }
   ],
-  "": [
+  "Projects": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
