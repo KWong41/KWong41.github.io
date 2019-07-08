@@ -77,7 +77,9 @@
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "3.2",
-      "courses": ["Introduction to Database Management(SQL/HTML), Data Structures and Algorithms"
+      "courses": ["Introduction to Database Management(SQL/HTML), Data Structures and Algorithms, Software Engineering I(introduction to Javascript, CSS, HTML, Meteor, and React",
+                  "Introduction to C# and C++",
+                  "Introduction to Japanese IV"
       ]
     },
      {
@@ -88,8 +90,10 @@
       "endDate": "2017-09-01",
       "gpa": "3.4",
       "courses": [
-        "Calculus I/II (Derivative and Integration techniques), Introduction to Computer Science I and II (Introduction to Java and Data Structures)",
-        "Discrete Mathematics for Computer Science I and II (theoretical algorithmic math, some Data Structure theory),  Physics I/II, General Chemistry I/II"
+        "Calculus I/II (Derivative and Integration techniques), Physics I/II and labs, General Chemistry I/II and labs", 
+        "Introduction to Computer Science I and II (Introduction to Java and Data Structures)",
+        "Discrete Mathematics for Computer Science I and II (theoretical algorithmic math, some Data Structure theory)",  
+        "Introduction to the Japanese Language I/II/III"
       ]
     }
   ],
