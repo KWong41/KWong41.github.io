@@ -74,8 +74,18 @@
       "institution": "University of Hawai'i at Manoa, Honolulu, HI",
       "area": "Computer Science (expected graduation date: Fall, 2020)",
       "studyType": "Bachelor's of Science.",
-      "startDate": "2014-09-01",
+      "startDate": "2017-09-01",
       "endDate": "Present",
+      "gpa": "3.2",
+      "courses": [
+      ]
+    }
+     {
+      "institution": "University of Hawai'i at Leeward Community College, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "Associates in Science in Natural Sciences (STEM)",
+      "startDate": "2015-09-01",
+      "endDate": "2017-09-01",
       "gpa": "3.2",
       "courses": [
       ]
