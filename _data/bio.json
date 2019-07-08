@@ -27,10 +27,10 @@
       },
     ]
   },
-  "interests": [
+  "interests and hobbies": [
     {
       "name": "Software Development",
-      "keywords": [
+      "keywords": ["Java code environment, discrete math and theory"
       ]
     },
     {
@@ -164,7 +164,7 @@
   ],
   "references": [
     {
-      "name": "",
+      "name": "Available upon request",
       "reference": ""
     },
     {
