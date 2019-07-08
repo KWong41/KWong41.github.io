@@ -93,27 +93,27 @@
   ],
   "work": [
     {
-      "company": "United States Air Force",
-      "position": "Recreation and services troop",
-      "website": "",
-      "startDate": "2007-08-01",
-      "endDate": "2013-08-01",
-      "summary": "Military support of fitness, lodging, and food for our military members",
+      "company": "University of Hawai'i at Manoa",
+      "position": "Java Web Developer",
+      "website": "https://www.hawaii.edu/its/ws/holiday/",
+      "startDate": "2019-06-01",
+      "endDate": "Currently Employed",
+      "summary": "Maintenance and Web development of University of Hawai'i at Manoa websites",
       "highlights": [
-        "Maintain, update, and oversee careful management of fitness, lodging, and dining facilities as well as personnel",
+        "Through the use of algorithmic problem solving, critical thinking, and some Java coding, we are able to develop apps for front-end users and back-end programming",
         ""
       ]
     },
     {
       "company": "Central Pacific Bank",
-      "position": "Travelling Bank Teller",
+      "position": "Bank Teller",
       "website": "http://centralpacificbank.com",
       "startDate": "2014-05-15",
-      "endDate": "",
-      "summary": "",
+      "endDate": "2016-07-12",
+      "summary": "Caring for our customers one customer at a time",
       "highlights": [
-        "Careful management of financial money and resources by the use of the bank's balance by utilizint it's budgets and checks",
-        ""
+        "Careful management of the bank as well as customer's finances and resources by the use of the bank's balance by utilizing it's budgets and checks",
+        "Maintaining trust and exceptional customer service"
       ]
     }
   ],
