@@ -124,7 +124,7 @@
       ]
     }
   ],
-  "Projects": [
+  "Activities": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -153,10 +153,10 @@
   ],
   "awards": [
     {
-      "title": "General Curtis E. LeMay Award",
-      "date": "2009-Present",
-      "awarder": "US Government",
-      "summary": "Careful maintenance and inspection of military facility, handling, and maintenance of food, resources, and personnel."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
       "title": "",
@@ -167,8 +167,16 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "",
       "reference": ""
-    }
+    },
+    {
+      "name": "",
+      "reference": ""
+    },
+    {
+      "name": "",
+      "reference": ""
+    }    
   ]
 }
