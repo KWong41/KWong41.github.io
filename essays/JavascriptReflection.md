@@ -7,9 +7,7 @@ labels:
   - Javascript
   - Learning
 ---
-So. What do you think about Javascript so far? If you’re a complete newbie, how does it compare to other programming languages that you know? If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? Do you think Javascript is a good or bad programming language from a software engineering perspective?
 
-What about athletic software engineering? Did you find the practice WODs to be useful? What do you think about this style of learning? Is it stressful? Is it enjoyable? Do you think it will work for you?
 
 	Javascript is a great all-around language that teaches you the basics of syntax well.  I think Javascript is a less sophisticated software language than it's predecessors.  The languages C#, C++, Java, CSS, PHP, HTML, and SQL I feel are slightly more complicated because in Javascript, you can declare primitive data types with one word instead of specific strings.  The bracketing I feel is a less strict than other languages also.  If statements, for loops, functions, and the like don't require as much syntax for the same application to run in Javascript.  In that sense, Javascript seems a little more straightforward and simpler to understand than other languages because of this.  I am a complete newbie in Javascript and I feel that most of the language is identically similar to Java.  Overall from an engineering perspective, I think Javascript is a good programming language to a certain extent.  There are some flaws to Javascript and I think Professor Johnson has pointed this out for a little bit.  The variable declaration I feel can be a problem.  There are global variables and local variables that can be declared inside or outside of the function (which is nothing new) but when you don't have the functionality to call a function as private or public, I feel that may become an issue between global and local variables.
 	
