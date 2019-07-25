@@ -6,6 +6,7 @@ date: 2015-08-26
 labels:
   - Software Engineering
   - Learning
+  - Motivational Speech
 ---
 From the moment I picked up a video game controller, I have been always passionate about video games. I grew up playing video games like Super Mario Bros, Final Fantasy, Mega Man, and Double Dragon. These games motivated me to become the next video game developer in any genre. As time progressed, I continued playing video games on consoles like the SNES, PS1, Xbox, Xbox 360, PS4, and Nintendo Switch. I am currently playing video games more on the PC. My passion for video games became stronger and stronger as time passed and it is at a point where I even enjoy video game music.
 
