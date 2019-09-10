@@ -7,7 +7,7 @@ labels:
 title: Fitness Center Success!
 permalink: projects/FitnessCenter
 # All dates must be YYYY-MM-DD format!
-date: 2001-01-01
+date: 2009-09-12
 summary: The critical lessons of the Peterson Air Force Base Fitness Center
 ---
 <img class="ui medium right floated rounded image" src="../images/FitnessCenterPeterson.jpg">
