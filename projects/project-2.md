@@ -10,7 +10,7 @@ permalink: projects/FitnessCenter
 date: 2001-01-01
 summary: The critical lessons of the Peterson Air Force Base Fitness Center
 ---
-
+<img class="ui medium right floated rounded image" src="..images/PetersonFitnessCenter1.JPG">
 <img class="ui medium right floated rounded image" src="../images/FitnessCenterPeterson.jpg">
 
   
@@ -34,8 +34,6 @@ summary: The critical lessons of the Peterson Air Force Base Fitness Center
   My sense of urgency was tested multiple times here as well.  Since I was working at the fitness center as a fitness specialist, my team and I was required to be trained on how to handle emergency situations.  This meant learning how to do CPR, where the alarms were in the facility if I needed to turn them on, where the defibbrilators were around the gym (just in case of a heart situation), and other similar tasks.  During my time as a fitness assessment manager as well as a fitness center specialist, I had to experience these emergency situations first hand.  As a fitness assessment manager, the critically important task to assess fellow Air Force members meant that it came with a sense of urgency.  Sometimes, Air Force members that took the fitness assessment was not always up to the standard that the Air Force wants them to be.  These people would often overexert themselves and try to pass the fitness assessment by doing so.  This would almost always end in disaster.  There were multiple times where the member doing the assessment would fall from a run on the outside track or throw up due to overexertion.  Me as well as my team had to be ready at these times to see if that person just needed to catch his/her breath or an ambulance or even worse... CPR.
   
   Striving for excellence meant everything to me in and out of the Air Force.  I knew that if I didn't strive for excellence that someone might either get hurt or even die.  Imagine if I didn't try my best in assessing fitness standards to people or didn't run fast enough during an emergency as someone has collapsed on the track or did not clean or maintain fitness equipment properly.  I can say for absolute certainty that anything short of doing my best would have meant critical consenquences for me and my team.  This was simply not a negotiation as far as this was concerned.  I could not take no for an answer when it came to problem solving these difficult tasks. 
-  
-  <img class="ui medium right floated rounded image" src="..images/PetersonFitnessCenter1.JPG">
   
 If you would like to know more about where I worked at in the military, here is a
 <a href="https://www.21fss.com/about/fitness-center/">link</a>
