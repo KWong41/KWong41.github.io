@@ -12,16 +12,6 @@ summary: The critical lessons of the Peterson Air Force Base Fitness Center
 ---
 
 <img class="ui medium right floated rounded image" src="../images/FitnessCenterPeterson.jpg">
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   This project meant alot to me as I was growing as a young junior Air Force troop.  
   
