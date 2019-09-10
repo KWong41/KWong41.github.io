@@ -5,14 +5,14 @@ image: images/AirForce.jpg
 labels: 
   - filler
 title: Fitness Center Success!
-permalink: projects/vacay
+permalink: projects/FitnessCenter
 # All dates must be YYYY-MM-DD format!
 date: 2001-01-01
 summary: The critical lessons of the Peterson Air Force Base Fitness Center
 ---
 
 <img class="ui medium right floated rounded image" src="../images/FitnessCenterPeterson.jpg">
-<img class="ui medium right floated rounded image" src="..images/PetersonFitnessCenter1.JPG">
+<img class="ui medium right floated rounded image" src="..images/PetersonFitnessCenter1.jpg">
 <img class="ui medium right floated rounded image" src="..images/TrackandField.jpg">
 
 
