@@ -2,16 +2,17 @@
 layout: project
 type: project
 image: images/AirForce.jpg
-title: Military Guest Service Specialist
-permalink: projects/militaryGuestServiceSpecialist
-date: 2007-09-01
+title: UH Manoa Java Web Developer
+permalink: projects/WebDeveloper
+date: 2019-09-01
 labels:
 - filler
-summary: My team won the General Curtis E. LeMay award for outstanding service in a Dining Facility.
+summary: My wonderful experience as a Java Web Developer at UH Manoa
 ---
 
-September 1st, 2007 – September 23rd, 2009 Guest Service Specialist,  Pike's Peak Lodge, Peterson AFB, CO 
-· Work effort aided 21st force support squadron in winning 2008 Air Force Space Command Gen Curtis E. LeMay award as best unit in Air Force Space Command
-· Thorough attention to detail; aided in management of 22K guest/DV rooms which generated $100K in revenue. (Generated $100K during (explain which year or quarter during budget) by aiding management with 22K guests.
-· Leader,  Filled a managerial position as shift supervisor for three personnel that led to $40K in receipts and 100% accountability  (Worked as a shift supervisor and has (# direct reports) as needed
-· Ensured proper utilization of 232 rooms; maintained 91% occupancy rate which also exceeded Air Force's standards by 15% (Ensured proper utilization of 232 rooms by following (which guidelines or standard operating procedures (SOPs))
+As a Java Web Developer at the University of Hawaii at Manoa, I was responsible for maintaining the various websites of UH Manoa by implementing similar problem-solving techniques I have learned in the military as well as in school.  Techniques such as time-management, algorithm definitions, HTML reworks, SQL maintenance, attention to detail, and program management.  Not only did I had to learn and understand the programming language of Java, but I also had to learn other languages that goes hand in hand with web development.  This was the first job that people outside of my school began to put their minds together to solve a real world task.  
+
+These experiences defined me as a web developer and it gave me a big eye-opener as far as the learning process goes.  Many of the coding languages that I was not familiar with was relevant in this career field and I was motivated to learn and try it on first hand.  I treat this job similar to a class where I have to just shut my mouth and soak in information like a sponge because lets face it,  academia is dramatically different from real on-the-job training techniques.  On the job training techniques requires alot of hit or miss opportunities in code, whereas in academia, you would simply get a grade for it (A if u did it, F if u did not do it).  
+
+I was placed in a team of four web developers with similar experience as I did(essentially no experience).  One of our first tasks was to implement an algorithm that can display the most recent upcoming holiday on a table of holidays on a website.  We started to think about this for a few minutes and establish a meeting between all of us to see if we can figure this out piece by piece.  We implemented a pseudocode version of the completed algorithm in which we started to "plug-in" each part of the pseudocode through the source code that was given to us.  This is where I remembered in my Data Structures and Algorithms class that this algorithm could be easily solved by utilizing a "shortest paths" algorithm.  I gave my two cents into the meeting and then we eventually solved the problem with little to no backlash with each other as the process for solving this problem went smoothly.  
+
