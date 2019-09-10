@@ -11,22 +11,6 @@ summary: My wonderful experience as a Java Web Developer at UH Manoa
 ---
 
 <img class="ui medium right floated rounded image" src="../images/JavaWebDeveloper.jpg">
-<img class="ui medium right floated rounded image" src="../images/JavaWebDeveloper2.jpg">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 As a Java Web Developer at the University of Hawaii at Manoa, I was responsible for maintaining the various websites of UH Manoa by implementing similar problem-solving techniques I have learned in the military as well as in school.  Techniques such as time-management, algorithm definitions, HTML reworks, SQL maintenance, attention to detail, and program management.  Not only did I had to learn and understand the programming language of Java, but I also had to learn other languages that goes hand in hand with web development.  This was the first job that people outside of my school began to put their minds together to solve a real world task.  
 
