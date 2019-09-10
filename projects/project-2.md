@@ -8,11 +8,13 @@ title: Fitness Center Success!
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2001-01-01
-summary: Successful deployment in Afghanistan in early 2011.
+summary: The critical lessons of the Peterson Air Force Base Fitness Center
 ---
 
-<img class="ui medium right floated rounded image" src="../images/Deployedawardimage2.jpg">
-<img class="ui medium right floated rounded image" src="../images/Deployedawardimage2.jpg">
+<img class="ui medium right floated rounded image" src="../images/FitnessCenterPeterson.jpg">
+<img class="ui medium right floated rounded image" src="..images/PetersonFitnessCenter1.JPG">
+<img class="ui medium right floated rounded image" src="..images/TrackandField.jpg">
+
 
   This project meant alot to me as I was growing as a young junior Air Force troop.  
   
