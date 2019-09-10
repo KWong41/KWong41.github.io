@@ -13,7 +13,7 @@ summary: My team won the General Curtis E. LeMay award for outstanding service i
 ---
 
 <div class="Military cooking pictures">
-  <img class="ui image" src="..images/Deployedawardimage.jpg">
+  <img class="ui image" src="images/Deployedawardimage.jpg">
   <img class="ui image" src="..images/Deployedawardimage2.jpg">
 </div>
 
