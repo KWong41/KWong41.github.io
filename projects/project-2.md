@@ -4,7 +4,7 @@ type: project
 image: images/AirForce.jpg
 labels: 
   - filler
-title: Fitness Center Success!
+title: Fitness Center Specialist
 permalink: projects/FitnessCenter
 # All dates must be YYYY-MM-DD format!
 date: 2009-09-12
