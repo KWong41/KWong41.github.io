@@ -12,11 +12,10 @@ labels:
 summary: The culinary experience in my military career has reached it's pinnacle when my team won the General Curtis E. LeMay award for outstanding service in a Dining Facility.
 ---
 
-<div class="Military cooking pictures">
-  <img class="ui image" src="images/Deployedawardimage.jpg">
-  <img class="ui image" src="images/Deployedawardimage2.jpg">
-</div>
 <img class="ui medium right floated rounded image" src="../images/Deployedawardimage.jpg">
+<img class="ui medium right floated rounded image" src="../images/Deployedawardimage2.png">
+
+
 Throughout my career as an Air Force Line Cook, I have met some amazing people.  People that I had the pleasure of serving with.  These people were some of the best people I have ever met in my life and I would happily do it again. 
 
 During the time I was a cook in the military, I have served over 10,000 people during peacetime bases and well over 50,000 people overseas.  I have created and innovated my way into completing arduous problem solving tasks with culinary professionals.  For example, during my overseas deployment, I have had the opportunity to work with nearly 40 Afghan people.  These people served as an equal in creating a menu, implementing that menu, and occasionally cooking "on the fly" when cooked food was not so readily available(also known as out of stock food).  
