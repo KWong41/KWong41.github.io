@@ -12,7 +12,7 @@ labels:
 summary: My team won the General Curtis E. LeMay award for outstanding service in a Dining Facility.
 ---
 
-images/Deployed award image.jpg
+http://github.com/KWong41/images/Deployed award image.jpg
 
 Throughout my career as an Air Force Line Cook, I have met some amazing people.  People that I had the pleasure of serving with.  These people were some of the best people I have ever met in my life and I would happily do it again. 
 
