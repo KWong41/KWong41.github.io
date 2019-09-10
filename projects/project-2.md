@@ -13,6 +13,16 @@ summary: The critical lessons of the Peterson Air Force Base Fitness Center
 
 <img class="ui medium right floated rounded image" src="../images/FitnessCenterPeterson.jpg">
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   This project meant alot to me as I was growing as a young junior Air Force troop.  
   
   I was a young fitness specialist that barely graduated out of basic training and technical school.  Technical school is the school that the Air Force ships you to (depending on what career field you chose before you joined the military) to begin your professional training.  Part of my training in technical school required me to learn how to take care of my body by lifting weights, running, cycling, and the like.  This school also trained me in how to maintain fitness equipment and how to workout your body to the point of maximum stress without injuring yourself.  This is where I found discipline, attention to detail, a sense of urgency, and my motivation to strive for excellence.  
