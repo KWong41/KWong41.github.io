@@ -12,7 +12,7 @@ summary: The critical lessons of the Peterson Air Force Base Fitness Center
 ---
 
 <img class="ui medium right floated rounded image" src="../images/FitnessCenterPeterson.jpg">
-<img class="ui medium right floated rounded image" src="..images/PetersonFitnessCenter1.jpg">
+<img class="ui medium right floated rounded image" src="images/PetersonFitnessCenter1.JPG">
 <img class="ui medium right floated rounded image" src="..images/TrackandField.jpg">
 
 
