@@ -9,12 +9,12 @@ labels:
 - General Curtis E. LeMay award for outstanding service in a Dining Facility
 - Managed and trained 40+ military members how to properly operate a Dining Facility
 - Saved nearly $10m in funds by carefully managing resources to alleviate waste
-summary: My team won the General Curtis E. LeMay award for outstanding service in a Dining Facility.
+summary: The culinary experience in my military career has reached it's pinnacle when my team won the General Curtis E. LeMay award for outstanding service in a Dining Facility.
 ---
 
 <div class="Military cooking pictures">
   <img class="ui image" src="images/Deployedawardimage.jpg">
-  <img class="ui image" src="..images/Deployedawardimage2.jpg">
+  <img class="ui image" src="images/Deployedawardimage2.jpg">
 </div>
 
 Throughout my career as an Air Force Line Cook, I have met some amazing people.  People that I had the pleasure of serving with.  These people were some of the best people I have ever met in my life and I would happily do it again. 
