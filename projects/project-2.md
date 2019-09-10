@@ -37,5 +37,5 @@ summary: The critical lessons of the Peterson Air Force Base Fitness Center
   
   <img class="ui medium right floated rounded image" src="..images/PetersonFitnessCenter1.JPG">
   
-If you would like to know more about where I worked at in the military, here is a link
-https://www.21fss.com/about/fitness-center/
+If you would like to know more about where I worked at in the military, here is a
+<a href="https://www.21fss.com/about/fitness-center/">link</a>
