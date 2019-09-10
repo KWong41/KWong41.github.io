@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/AirForce.jpg
+image: images/UHseal.jpg
 title: UH Manoa Java Web Developer
 permalink: projects/WebDeveloper
 date: 2019-09-01
