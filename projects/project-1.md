@@ -13,7 +13,7 @@ summary: The culinary experience in my military career has reached it's pinnacle
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Deployedawardimage.jpg">
-<img class="ui medium right floated rounded image" src="../images/Deployedawardimage2.png">
+<img class="ui medium right floated rounded image" src="../images/Deployedawardimage2.jpg">
 
 
 Throughout my career as an Air Force Line Cook, I have met some amazing people.  People that I had the pleasure of serving with.  These people were some of the best people I have ever met in my life and I would happily do it again. 
