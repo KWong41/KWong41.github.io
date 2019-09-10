@@ -4,15 +4,16 @@ type: project
 image: images/AirForce.jpg
 labels: 
   - filler
-title: Deployment 
+title: Fitness Center Success!
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2001-01-01
 summary: Successful deployment in Afghanistan in early 2011.
 ---
 
+<img class="ui medium right floated rounded image" src="../images/Deployedawardimage2.jpg">
+<img class="ui medium right floated rounded image" src="../images/Deployedawardimage2.jpg">
 
-
-  Maintained a successful deployment in Afghanistan by keeping sustainment of a camp by utilizing culinary arts to learn how to properly manage a team of local nationals to complete meals for US and allied troops three times a day.  This became my job for about six months.  As time progressed, this became progressively harder because my area was close to enemy forces.  The fact that we were close to enemy forces meant that we were on high danger territory.  
+  Normally throughout my life, I have had to overcome alot of obstacles than the average person.  This moment in my life began the professional journey that made me who I am today.  
   
-
+  
