@@ -12,7 +12,7 @@ labels:
 summary: My team won the General Curtis E. LeMay award for outstanding service in a Dining Facility.
 ---
 
-Throughout my career as an Air Force Line Cook, I have met some amazing people.  People that I had the pleasure of serving with.  These people were amongst the best people I have ever met in my lives and I would happily do it again. 
+Throughout my career as an Air Force Line Cook, I have met some amazing people.  People that I had the pleasure of serving with.  These people were some of the best people I have ever met in my life and I would happily do it again. 
 
 During the time I was a cook in the military, I have served over 10,000 people during peacetime bases and well over 50,000 people overseas.  I have created and innovated my way into completing arduous problem solving tasks with culinary professionals.  For example, during my overseas deployment, I have had the opportunity to work with nearly 40 Afghan people.  These people served as an equal in creating a menu, implementing that menu, and occasionally cooking "on the fly" when cooked food was not so readily available(also known as out of stock food).  
 
