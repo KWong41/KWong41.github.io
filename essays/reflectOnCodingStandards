@@ -1,0 +1,16 @@
+Many people think of “coding standards” in a trivial way—i.e. minutae such as how many spaces to indent, or whether you place the close-curly-brace on a new line by itself.
+
+I, on the other hand, think that if you can only implement one software engineering technique to improve quality, it should be coding standards. Indeed, I believe some coding standards can actually help you learn a programming language. Do you agree?
+
+After your first week of using ESLint with IntelliJ, what are your impressions? Are you finding that getting the green checkmark is painful, or useful, or both, or something else entirely?
+
+Write an interesting, informative essay on coding standards that addresses some or all of the above questions, or goes in a different direction entirely regarding coding standards. Make sure it provides your personal perspective and useful insights.
+
+  After playing around with installing IntelliJ and following through with the necessary settings and installations through the commandline and such,
+  I believe that this ESLint tool increases clarification in trying to send a message to your fellow co-workers, classmates, friends, whoever that might read your code.
+  As software engineers, there are multiple different ways of coding a program through various different languages, algorithms, problem solving techniques and so on.
+  ESLint provides that extra clarification in trying to understand what is going on here.  ESLint is a quick way to fix typing errors or spacing errors on the fly that many people in the industry would probably wouldn't notice until they actually do it themselves.
+  Getting that checkmark in ESLint format doesn't seem to be very hard since ESLint tells the coder what is going wrong in a straightforward fashion.  For me, if I come across an error in my code, I often have to google the error but ESLint makes it easy to find errors along the way. 
+  
+  However, I did have trouble trying to install ESLint.  I had to try and mess around with the troubleshooting that ESLint provided (It took me at least six or seven tries until I actually got ESLint to work).
+  
