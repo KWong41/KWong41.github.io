@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: Reflecting on Coding Standards
+date: 2019-09-21
+labels:
+  - Javascript
+  - Learning
+---
+
 Many people think of “coding standards” in a trivial way—i.e. minutae such as how many spaces to indent, or whether you place the close-curly-brace on a new line by itself.
 
 I, on the other hand, think that if you can only implement one software engineering technique to improve quality, it should be coding standards. Indeed, I believe some coding standards can actually help you learn a programming language. Do you agree?
