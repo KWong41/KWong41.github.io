@@ -23,4 +23,4 @@ Write an interesting, informative essay on coding standards that addresses some 
   Getting that checkmark in ESLint format doesn't seem to be very hard since ESLint tells the coder what is going wrong in a straightforward fashion.  For me, if I come across an error in my code, I often have to google the error but ESLint makes it easy to find errors along the way. 
   
   However, I did have trouble trying to install ESLint.  I had to try and mess around with the troubleshooting that ESLint provided (It took me at least six or seven tries until I actually got ESLint to work).
-  
+  I feel like the hardest part of implementing a coding standard is by actually getting ESLint to work through the command line and through intelliJ.
