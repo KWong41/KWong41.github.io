@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kevin Wong",
-    "label": "Computer Science student / web developer",
+    "label": "Computer Science student and student web developer at the University of Hawai'i at Manoa",
     "picture": "https://KWong41.github.io/images/Professional Profile kwong.jpg",
     "email": "WongKevin41@gmail.com",
     "phone": "808-381-2967",
@@ -29,8 +29,8 @@
   },
   "interests": [
     {
-      "name": "Software Development",
-      "keywords": ["Java code environment, discrete math and theory"
+      "name": "Web Development",
+      "keywords": ["Java code environment, discrete math theory"
       ]
     },
     {
@@ -77,9 +77,9 @@
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "3.2",
-      "courses": ["Introduction to Database Management(SQL/HTML), Data Structures and Algorithms, Software Engineering I(introduction to Javascript, CSS, HTML, Meteor, and React)",
-                  "Introduction to C# and C++",
-                  "Introduction to Japanese IV"
+      "courses": ["Database Management(SQL/PHP), Data Structures and Algorithms, Software Engineering I(introduction to Javascript, CSS, HTML, Meteor, and React)",
+                  "Data Structures involving C# and C++",
+                  "Introduction to Japanese I/II/III/IV"
       ]
     },
      {
@@ -150,12 +150,12 @@
   ],
   "references": [
     {
-      "name":  ,
-      "reference": ""
+      "name":  "Anh Truong",
+      "reference": "Human Relations Manager"
     },
     {
-      "name": "",
-      "reference": ""
+      "name": "Roxanne Ai",
+      "reference": "Customer Service Manager at Central Pacific Bank"
     },
     {
       "name": "Gerald Lau",
