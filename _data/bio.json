@@ -149,17 +149,31 @@
       ]
     }
   ],
-  "References": [
-    { "name": "Anh Truong",
-      "reference":  "Human Relations Manager at Google" 
+ "References": [
+    {
+      "company": "University of Hawai'i at Manoa",
+      "position": "Java Web Developer",
+      "website": "https://www.hawaii.edu/its/ws/holiday/",
+      "startDate": "2019-06-01",
+      "endDate": "Currently Working here",
+      "summary": "Maintenance and Web development of University of Hawai'i at Manoa websites",
+      "highlights": [
+        "Developing website application by problem solving issues which requires the use of algorithmic thinking, mathematical theory, database management, and teamwork",
+        "Assist various project teams with the development and maintenance of system-wide web applications",
+        "Debugging future edits on projects"
+      ]
     },
     {
-      "name": "Roxanne Ai",
-      "reference": "Customer Service Manager at Central Pacific Bank"
-    },
-    {
-      "name": "Gerald Lau",
-      "reference": "University of Hawaii Computer Science Academic Advisor"
+      "company": "Central Pacific Bank",
+      "position": "Bank Teller",
+      "website": "http://centralpacificbank.com",
+      "startDate": "2014-05-15",
+      "endDate": "2016-07-12",
+      "summary": "Caring for our customers one customer at a time",
+      "highlights": [
+        "Careful management of the bank as well as customer's finances and resources by the use of the bank's balance by utilizing it's budgets and checks",
+        "Maintaining trust and exceptional customer service"
+      ]
     }
-    ]
+  ],
 }
