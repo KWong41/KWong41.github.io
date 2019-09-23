@@ -49,10 +49,12 @@
       "name": "Languages and Frameworks",
       "level": "Beginner",
       "keywords": [
+        "Javascript",
+        "Java",
         "HTML",
         "CSS",
-        "Java",
-        "Javascript",
+        "Spring Boot",
+        "Bootstrap",
         "Data Structures and Algorithms",
         "Problem Solving"
       ]
@@ -98,7 +100,7 @@
       ]
     }
   ],
-  "work/references": [
+  "work": [
     {
       "company": "University of Hawai'i at Manoa",
       "position": "Java Web Developer",
