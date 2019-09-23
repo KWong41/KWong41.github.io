@@ -117,7 +117,7 @@
     {
       "company": "Central Pacific Bank",
       "position": "Bank Teller",
-      "website": "http://centralpacificbank.com",
+      "website": "http://www.centralpacificbank.com",
       "startDate": "2014-05-15",
       "endDate": "2016-07-12",
       "summary": "Caring for our customers one customer at a time",
@@ -152,17 +152,20 @@
     }
   ],
  "references": [
-    {
-      "name":  "Anh Truong",
-      "reference": "Human Relations Manager at Google San Jose"
-    },
-    {
-      "name": "Roxanne Ai",
-      "reference": "Customer Service Manager at Central Pacific Bank"
-    },
-    {
-      "name": "Gerald Lau",
-      "reference": "Academic Advisor for Computer Science at the University of Hawaii at Manoa"
-    }
-  ],
+   "Anh Truong",
+   "Human Relations Manager at Google San Jose"
+ ]
+ //   {
+ //     "name":  "Anh Truong",
+ //     "reference": "Human Relations Manager at Google San Jose"
+ //   },
+ //   {
+ //     "name": "Roxanne Ai",
+ //     "reference": "Customer Service Manager at Central Pacific Bank"
+ //   },
+ //   {
+ //     "name": "Gerald Lau",
+ //     "reference": "Academic Advisor for Computer Science at the University of Hawaii at Manoa"
+ //   }
+ // ],
 }
