@@ -149,6 +149,7 @@
       ]
     }
   ],
+  "References": [
    {
       "name":  "Anh Truong",
       "reference": "Human Relations Manager"
@@ -164,5 +165,7 @@
     {
       "name": "Gerald Lau",
       "reference": "University of Hawaii Computer Science Academic Advisor"
-    },  
+    }
+    ]
+}
 }
