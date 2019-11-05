@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-People working on this project:  Tyler Asado and Kevin Wong
+People working on this project:  Tyler Asato and Kevin Wong
 
 Frameworks and Languages:  Meteor, ReactJS, Semantic UI, Github repository
 
