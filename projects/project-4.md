@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: images/AirForce.jpg
-title: Military lead cook
-permalink: projects/militarycook
-date: 2007-05-05
+title: Hawai'i Annual Code Challenge
+permalink: projects/HACC
+date: 2019-11-11
 labels:
 - General Curtis E. LeMay award for outstanding service in a Dining Facility
 - Managed and trained 40+ military members how to properly operate a Dining Facility
