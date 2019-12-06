@@ -14,4 +14,10 @@ summary: The culinary experience in my military career has reached it's pinnacle
 
 <img class="ui medium right floated rounded image" src="../images/Deployedawardimage.jpg">
 
-During 
+During the month of mid-October to November, there was a Hackathon competition for the State of Hawai'i called the HACC (Hawai'i Annual Code Challenge).  Annually, the sponsors of this competition come to us on the first opening day and explain to us their elaborate problems that we as collegiate and high school students would have to solve algorithmically.  
+
+
+
+Attached is the hyperlink to my team's final project.
+https://devpost.com/software/volts-wagon
+ 
