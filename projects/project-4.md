@@ -18,7 +18,7 @@ During the middle of October to November 2019, there was a month long hackathon 
 
 https://hacc.hawaii.gov/#challenges_anchor
 
-There were five problems that the state of Hawai'i needed to fix.  One was an elaborate way to 
+There were five problems that the state of Hawai'i asked of us to find the solutions for.
 
 Here is the hyperlink to the HACC websites
 https://hacc.hawaii.gov/
