@@ -18,7 +18,14 @@ During the middle of October to November 2019, there was a month long hackathon 
 
 https://hacc.hawaii.gov/#challenges_anchor
 
-There were five problems that the state of Hawai'i asked of us to find the solutions for.
+There were five challenges that the state of Hawai'i asked of us to find the solutions for.
+
+Out of the five problems that the State of Hawai'i proposed to my team, we chose to pick the HECO problem.  
+
+ENERGY/HECO ELECTRIC VEHICLE CHARGING ANALYSIS
+State Energy Office/Hawaii Electric Co. Electric Vehicle Charging Analysis
+
+Challenge Description: a dashboard displaying health of charging station shall be updated every 5-10 minutes using key metrics developed from charging data analysis. A utilization tracker shall include a “congestion” threshold at which a new station in the same location is needed. The impact from EV charging would better inform stakeholders the amount of power used during various times of day by EVs and the corresponding reductions in fossil fuel use and in GHG emissions.
 
 ## Here is the hyperlink to the HACC websites
 [Hawaii Annual Code Challenge Official Website](https://hacc.hawaii.gov/)
