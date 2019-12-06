@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/AirForce.jpg
+image: images/HACClogo.png
 title: Hawai'i Annual Code Challenge
 permalink: projects/HACC
 date: 2019-11-11
