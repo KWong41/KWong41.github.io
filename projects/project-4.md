@@ -12,7 +12,7 @@ labels:
 summary: The HACC experience.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/Deployedawardimage.jpg">
+<img class="ui medium right floated rounded image" src="../images/HACCgrouppic.jpg">
 
 During the middle of October to November 2019, there was a month long hackathon competition for the State of Hawai'i called the HACC (Hawai'i Annual Code Challenge).  This competition encompasses many of the state's real-world problems.  Annually, the sponsors of this competition come to us on the first opening day and explain to us their elaborate problems that we as collegiate and high school students would have to solve algorithmically.  
 
