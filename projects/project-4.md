@@ -4,12 +4,12 @@ type: project
 image: images/HACClogo.png
 title: Hawai'i Annual Code Challenge
 permalink: projects/HACC
-date: 2019-10-17 to 2019-11-16
+date: 2019-10-17
 labels:
 - Problem-solving skills, research, and teamwork by completing an issue for the State of Hawai'i
 - using real world problems to familiarize ourselves of full stack development of a web application.
 - Placed top 3 (3rd place) in a team of 50 collegiate and high school teams across the State of Hawai'i
-summary: The culinary experience in my military career has reached it's pinnacle when my team won the General Curtis E. LeMay award for outstanding service in a Dining Facility.
+summary: The HACC experience.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Deployedawardimage.jpg">
