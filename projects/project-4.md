@@ -16,9 +16,9 @@ summary: The HACC experience.
 
 During the middle of October to November 2019, there was a month long hackathon competition for the State of Hawai'i called the HACC (Hawai'i Annual Code Challenge).  This competition encompasses many of the state's real-world problems.  Annually, the sponsors of this competition come to us on the first opening day and explain to us their elaborate problems that we as collegiate and high school students would have to solve algorithmically.  
 
-https://hacc.hawaii.gov/#challenges_anchor
-
 There were five challenges that the state of Hawai'i asked of us to find the solutions for on a software development / algorithmic problem solving kind of way.
+
+click [here](https://hacc.hawaii.gov/#challenges_anchor) for more detailed explanation about these five challenges
 
 Out of the five problems that the State of Hawai'i proposed to my team, we chose to pick the HECO problem.  
 
