@@ -2,7 +2,7 @@
   "basics": {
     "name": "Kevin Wong",
     "label": "Computer Science student and student web developer at the University of Hawai'i at Manoa",
-    "picture": "https://KWong41.github.io/images/Professional Profile kwong.jpg",
+    "picture": "https://KWong41.github.io/images/ProfilePictureKvwong.jpg",
     "email": "WongKevin41@gmail.com",
     "phone": "808-381-2967",
     "website": "https://KWong41.github.io",
@@ -30,16 +30,21 @@
   "interests": [
     {
       "name": "Web Development",
-      "keywords": ["Java code environment, discrete math theory"
-      ]
-    },
-    {
-      "name": "Game Development",
       "keywords": [
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Front End Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Back End Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Structures and Algorithms",
       "keywords": [
       ]
     }
@@ -49,9 +54,13 @@
       "name": "Languages and Frameworks",
       "level": "Beginner",
       "keywords": [
+        "Meteor",
+        "ReactJS",
         "Javascript",
+        "UnderscoreJS",
         "Java",
         "HTML",
+        "Semantic UI",
         "CSS",
         "Spring Boot",
         "Bootstrap",
@@ -61,7 +70,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Beginner",
       "keywords": [
         "MacOS",
         "Ubuntu",
@@ -82,10 +91,9 @@
       "courses": ["Database Management(SQL/PHP), Data Structures and Algorithms, Software Engineering I(introduction to Javascript, CSS, HTML, Meteor, and React)",
                   "Data Structures involving C# and C++",
                   "Introduction to Japanese IV",
-                  
       ]
     },
-     {
+    {
       "institution": "University of Hawai'i at Leeward Community College, Pearl City, Hawai'i",
       "area": "Computer Science",
       "studyType": "Associates in Science in Natural Sciences (STEM)",
@@ -93,9 +101,9 @@
       "endDate": "2017-09-01",
       "gpa": "3.4",
       "courses": [
-        "Calculus I/II (Derivative and Integration techniques), Physics I/II and lab, General Chemistry I/II and lab", 
-        "Introduction to Computer Science I and II (Data Structures involving Java)",
-        "Discrete Mathematics for Computer Science I and II (theoretical algorithmic math, some Data Structure theory)",  
+        "Calculus I/II (Differential and Integration techniques), Physics I/II (Newtonian and Maxwell Physics) and lab, General Chemistry I/II and lab", 
+        "Introduction to Computer Science I and II (Introduction to Java, Introduction to Data Structures)",
+        "Discrete Mathematics for Computer Science I and II (theoretical algorithmic math, symbols, Data Structure theory)",  
         "Introduction to the Japanese Language I/II/III"
       ]
     }
