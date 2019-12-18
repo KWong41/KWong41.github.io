@@ -8,17 +8,6 @@ labels:
   - Meteor
 ---
 
-Open Source Software Development
-Configuration Management
-Functional Programming
-Development Environments
-Coding Standards
-User Interface Frameworks
-Agile Project Management
-Design Patterns
-Ethics in Software Engineering
-Testing
-
   A reflection on software engineering means a whole lot of information honestly.  There are so many things to learn that I feel like it is impossible to learn everything there is in software engineering. 
 Having said that, the topics that I went through in this course was enlightening because I wasn't sure what to do after college before taking a web-development class.
 I feel inspired to become a web application developer.  These past six months of my life has been driven almost entirely about web-development.  I have a web-developmental school job, I have attended the Hawai'i Annual Code Challenge (basically web dev application solving), and
