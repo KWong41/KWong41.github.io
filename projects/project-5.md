@@ -19,7 +19,7 @@ After we have created templates for these pages, it was time for us to create th
 
 Once we combined our efforts, we used some sophisticated code to make the website look more authentic.  We used a sidebar on the store page that filtered different types of items when clicked (for example, the sidebar has an "electronics" tab that filters all items that involves electronics).  This was not the only idea that we used for this website.  We refined a top navigation bar that also has a searchbar (for searching different items), add item tab (for adding an item), store tab (for viewing items), and website guide (for first-time users).  We made a feedback form on the top right side of the profile icon when clicked and various other front-end functional web properties that was implemented into our website.  This involved some major problem-solving and teamwork skills to achieve this kind of functionality.  On the way to complete the project, we have learned a whole lot about how difficult it is to create an actual working website.  <img class="ui medium right floated rounded image" src="../images/HomePageJohnsonsList.png">
 
-After four weeks, with some intense coding sessions, deploying sessions, and github.io page editing sessions, we finally got a working professional template for both the actual project and the do-it-yourself project support website.  
+After four weeks, with some intense coding sessions, deploying sessions, and github.io page editing sessions, we got a working professional template for both the actual project and the do-it-yourself project support website.  
 
 Here are the links to my project and the descriptions to these projects:
 
