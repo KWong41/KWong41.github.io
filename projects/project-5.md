@@ -17,7 +17,7 @@ This project involved three student developers.  As a team, we were responsible 
 
 With these questions in mind, we created templates from scratch by drawing each page as detailed as we could.  In order to create a well-working sales website, we found inspiration from other various attractive sales websites and emulated their styles of functionality.  Throughout the creation of this project, we completed each question by problem-solving our way through step-by-step coding concepts.  We also had to work together often to ask each other questions to understand the problem that we are having as well as to solve the problem correctly.  Misunderstandings can most likely create more problems than fix the original problem itself.  That is why it is best to ask alot of questions, even if you have the slightest misunderstanding.  
 
-<img class="ui image" src="../images/MockpageJL.jpg">
+<img class="ui medium right floated rounded image" src="../images/MockpageJL.jpg">
 
 
 Here are the links to my project and the descriptions to these projects:
