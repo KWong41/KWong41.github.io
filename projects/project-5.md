@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/jl.png
-title: University of Hawaii Flea Market Project:  JohnsonsList
+title: University of Hawaii Flea Market Project
 permalink: projects/JohnsonsList
 date: 2019-10-17
 labels:
