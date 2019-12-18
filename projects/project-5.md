@@ -17,6 +17,7 @@ With these questions in mind, we created templates from scratch by drawing each 
 
 After we have created templates for these pages, it was time for us to create them in real-time through creative coding sessions.  Since there were three of us, we each had different things to do evenly.  For example, I was responsible for creating the navigation bar.  My other two classmates was responsible for creating the navigation bar and the background.  Once we finished doing this, we combined all three of these properties to create the main template for our website's landing page.  <img class="ui medium right floated rounded image" src="../images/LandingPageJohnsonsList.png">
 
+After four weeks, with some intense coding sessions, deploying sessions, and github.io page editing sessions, we finally got a working professional template for both the actual project and the do-it-yourself project support website.  
 
 Here are the links to my project and the descriptions to these projects:
 
