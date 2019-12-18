@@ -20,6 +20,6 @@ After we have created templates for these pages, it was time for us to create th
 
 Here are the links to my project and the descriptions to these projects:
 
-http://johnsonslist.meteorapp.com/#/
+[JohnsonsList Live website](http://johnsonslist.meteorapp.com/#/)
 
-https://johnsonslist.github.io/
+[JohnsonsList github.io](https://johnsonslist.github.io/)
