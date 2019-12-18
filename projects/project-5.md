@@ -11,7 +11,7 @@ labels:
 - Debugging
 ---
 
-<img class="ui medium right floated rounded image" src="../images/j1.png">
+<img src="../images/j1.png">
 
 This project involved three student developers.  As a team, we were responsible for creating our own website application from a meteor template created in ReactJS, HTML, CSS, and Semantic-UI.  We were given a meteor template that already had log-in code and some custom navbar and footer templates written in ReactJS.  In order to create an attractive sales website, we had to start from scratch and ask ourselves, "what would the user want to do with this website?", "what kinds of things could we add into this website that would make the user keep coming to visit this website?",  "how user-friendly can we make this website?".  
 
