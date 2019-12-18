@@ -8,17 +8,11 @@ labels:
   - Learning
 ---
 
-Reflecting on Smart Questions
+[Reflecting on Smart Questions](http://www.catb.org/esr/faqs/smart-questions.html)
 
-http://www.catb.org/esr/faqs/smart-questions.html
-
-Not so smart question
-
-https://stackoverflow.com/questions/444798/case-insensitive-containsstring
+[Not so smart question](https://stackoverflow.com/questions/444798/case-insensitive-containsstring)
     
-Smart question
-
-https://stackoverflow.com/questions/86780/how-to-check-if-a-string-contains-another-string-in-a-case-insensitive-manner-in
+[Smart question](https://stackoverflow.com/questions/86780/how-to-check-if-a-string-contains-another-string-in-a-case-insensitive-manner-in)
     
 Eric Raymond and Rick Moen, longtime advocates of the tech industry, describes to their readers that asking questions the "smart way" is an ideal way of being increasingly efficient on learning how to budget your time through your career whether as an intern or as a long time sofware developer.  Smart questions are important for software engineers.  This gives you a generalized way of increasing your problem solving skills.  I feel like this is a way to increase "on-the-job" training throughout your career as a software engineer however, it is NOT the only way. 
     
