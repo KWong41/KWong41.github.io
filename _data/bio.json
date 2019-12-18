@@ -139,15 +139,15 @@
   ],
   "projects": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "Hawai'i Annual Code Challenge",
+      "website": "http://hacc.hawaii.gov/",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "startDate": "2019-10-15",
+      "endDate": "2019-11-16",
+      "summary": "Back-end developer for a HACC project involving EV charging stations",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Technological automation involving teamwork and problem-solving skills",
+        "Turning manual data into automated data with the use of graphs, maps, and statistics"
       ]
     },
     {
