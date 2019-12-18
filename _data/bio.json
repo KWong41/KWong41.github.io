@@ -6,7 +6,7 @@
     "email": "WongKevin41@gmail.com",
     "phone": "808-381-2967",
     "website": "https://KWong41.github.io",
-    "summary": "I am studying for a Bachelor's in Science in Computer Science at the University of Hawaii. I expect to graduate in the Fall, 2020.",
+    "summary": "I am studying for a Bachelor's in Science in Computer Science at the University of Hawaii. I expect to graduate at the end of Spring, 2021.",
     "location": {
       "address": "98-1776 Ipuala Loop",
       "postalCode": "96801",
@@ -114,12 +114,12 @@
     {
       "company": "University of Hawai'i at Manoa",
       "position": "Java Web Developer",
-      "website": "https://www.hawaii.edu/its/ws/holiday/",
+      "website": "https://www.hawaii.edu/",
       "startDate": "2019-06-01",
       "endDate": "Currently Working here",
       "summary": "Maintenance and Web development of University of Hawai'i at Manoa websites",
       "highlights": [
-        "Developing website application by problem solving issues which requires the use of algorithmic thinking, mathematical theory, database management, and teamwork",
+        "Developing website application by problem solving issues which requires the use of full stack developmental skills, algorithmic thinking, database management, and teamwork",
         "Assist various project teams with the development and maintenance of system-wide web applications",
         "Debugging future edits on projects"
       ]
@@ -151,13 +151,15 @@
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""
+      "organization": "Area 52 Raid Squad",
+      "website": "https://johnsonslist.github.io/",
+      "position": "Student Developer",
+      "startDate": "11/15/2019",
+      "endDate": "12/15/2019",
+      "summary": "Creating a Flea-market type of website that caters towards incoming and outgoing students of UH Manoa",
+      "highlights": [
+        "Responsible for the use of creativity, innovation, and problem-solving through front-end design tactics",
+        "Project Management of the website through the use of a github page using a Kanban board task strategy",
       ]
     }
   ],
