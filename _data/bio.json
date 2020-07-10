@@ -88,7 +88,7 @@
       "area": "Computer Science (expected graduation date: Spring 2021)",
       "studyType": "Bachelor's of Science.",
       "startDate": "2017-09-01",
-      "endDate": "Current",
+      "endDate": "Present",
       "gpa": "3.24",
       "completed courses": ["Database Management(SQL/PHP)", "Data Structures and Algorithms using computational theory", "Software Engineering I(introduction to Javascript, CSS, HTML, Meteor, and React)",
                   "Data Structures involving C# and C++",
@@ -116,7 +116,7 @@
       "position": "Java Web Developer",
       "website": "https://www.hawaii.edu/",
       "startDate": "2019-06-01",
-      "endDate": "Currently Working here",
+      "endDate": "Present",
       "summary": "Management and Web development of University of Hawai'i at Manoa websites",
       "highlights": [
         "Developing website application by problem solving issues which requires the use of full stack developmental skills, algorithmic thinking, database management, and teamwork",
