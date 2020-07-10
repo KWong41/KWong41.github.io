@@ -66,21 +66,11 @@
         "CSS",
         "Spring Boot",
         "Bootstrap",
+        "Thymeleaf",
         "Data Structures and Algorithms",
         "Problem Solving"
       ]
     },
-    {
-      "name": "Toolsets/OS",
-      "level": "Beginner",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
   ],
   "education": [
     {
