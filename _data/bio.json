@@ -16,7 +16,7 @@
     },
     "profiles": [
       {
-        "network": "Github",
+        "network": "Github Projects",
         "username": "KWong41",
         "url": "http://github.com/KWong41"
       },
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "Front End Development",
+      "name": "Full Stack Development",
       "keywords": [
       ]
     },
@@ -89,7 +89,7 @@
       "studyType": "Bachelor's of Science.",
       "startDate": "2017-09-01",
       "endDate": "Present",
-      "gpa": "3.0",
+      "gpa": "3.24",
       "completed courses": ["Database Management(SQL/PHP)", "Data Structures and Algorithms using computational theory", "Software Engineering I(introduction to Javascript, CSS, HTML, Meteor, and React)",
                   "Data Structures involving C# and C++",
                   "Operating Systems / Computer Architecture", 
@@ -117,7 +117,7 @@
       "website": "https://www.hawaii.edu/",
       "startDate": "2019-06-01",
       "endDate": "Currently Working here",
-      "summary": "Maintenance and Web development of University of Hawai'i at Manoa websites",
+      "summary": "Management and Web development of University of Hawai'i at Manoa websites",
       "highlights": [
         "Developing website application by problem solving issues which requires the use of full stack developmental skills, algorithmic thinking, database management, and teamwork",
         "Assist various project teams with the development and maintenance of system-wide web applications",
@@ -152,6 +152,29 @@
       ]
     },
     {
+      "organization": "Area 52 Raid Squad",
+      "website": "https://johnsonslist.github.io/",
+      "position": "Student Developer / Back End Software Developer / Front End Software Developer / Project Manager",
+      "startDate": "11/15/2019",
+      "endDate": "12/15/2019",
+      "summary": "Creating a Flea-market website that University of Hawai'i users can buy and sell used or new goods",
+      "highlights": [
+        "Responsible for the use of creativity, innovation, and problem-solving through front-end design tactics",
+        "Project Management of the website through the use of a github page using a Kanban board task strategy",
+      ]
+    },
+    {
+      "organization": "University of Hawai'i at Manoa Information and Technology Services",
+      "website": "https://github.com/KWong41/uh-its-course-transfer",
+      "position": "Back End Student Developer",
+      "startDate": "03/01/2020",
+      "endDate": "currently in development",
+      "summary": "Creating a course-transfer website for new students transferring to the University of Hawai'i at Manoa College",
+      "highlights": [
+        "Responsible for the use of creativity, innovation, and problem-solving through front-end design tactics",
+        "Project Management of the website through the use of a github page using a Kanban board task strategy",
+      ]
+    },{
       "organization": "Area 52 Raid Squad",
       "website": "https://johnsonslist.github.io/",
       "position": "Student Developer / Back End Software Developer / Front End Software Developer / Project Manager",
