@@ -71,6 +71,16 @@
         "Problem Solving"
       ]
     },
+    {
+      "name": "Toolsets/OS",
+      "level": "Beginner",
+      "keywords": [
+        "MacOS",
+        "Windows"
+        "Ubuntu",
+        "Git/GitHub",
+      ]
+    }
   ],
   "education": [
     {
