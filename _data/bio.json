@@ -142,8 +142,8 @@
       "organization": "Hawai'i Annual Code Challenge",
       "website": "http://hacc.hawaii.gov/",
       "position": "Back End Software Developer / Data Analyst",
-      "startDate": "2019-10-15",
-      "endDate": "2019-11-16",
+      "startDate": "10/01/2019",
+      "endDate": "11/15/2019",
       "summary": "Creating a solution for the state's manual data EV problem.  The State of Hawai'i's HECO (Hawaiian Electric Company) community has explained to us that there is a",
       "highlights": [
         "Technological automation involving teamwork and problem-solving skills",
@@ -176,12 +176,12 @@
       ]
     },
     {
-      "organization": "Area 52 Raid Squad",
-      "website": "https://johnsonslist.github.io/",
-      "position": "Student Developer / Back End Software Developer / Front End Software Developer / Project Manager",
-      "startDate": "11/15/2019",
-      "endDate": "12/15/2019",
-      "summary": "Creating a Flea-market website that University of Hawai'i users can buy and sell used or new goods",
+      "organization": "University of Hawai'i at Manoa Information and Technology Services",
+      "website": "https://github.com/KWong41/uh-holiday-webapp-boot","https://www.hawaii.edu/its/ws/holiday/",
+      "position": "Back End Student Developer",
+      "startDate": "07/01/2019",
+      "endDate": "Present",
+      "summary": "Created a University of Hawai'i holidays website that highlights the current and upcoming holiday based on the current date",
       "highlights": [
         "Responsible for the use of creativity, innovation, and problem-solving through front-end design tactics",
         "Project Management of the website through the use of a github page using a Kanban board task strategy",
