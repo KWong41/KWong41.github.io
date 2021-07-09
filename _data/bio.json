@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kevin Wong",
-    "label": "Computer Science student and student web developer at the University of Hawai'i at Manoa",
+    "label": "Computer Science graduate at the University of Hawai'i at Manoa",
     "picture": "https://KWong41.github.io/images/ProfilePictureKvwong.jpg",
     "email": "WongKevin41@gmail.com",
     "phone": "808-381-2967",
     "website": "https://KWong41.github.io",
-    "summary": "I am studying for a Bachelor's in Science in Computer Science at the University of Hawaii. I expect to graduate at the end of Spring, 2021.",
+    "summary": "I am a passionate and open-minded computer engineer looking for opportunities in computer science",
     "location": {
       "address": "98-1776 Ipuala Loop",
       "postalCode": "96801",
@@ -61,6 +61,7 @@
         "Java",
         "C++",
         "C",
+        "Assembly x86",
         "HTML",
         "Semantic UI",
         "CSS",
@@ -85,14 +86,14 @@
   "education": [
     {
       "institution": "University of Hawai'i at Manoa, Honolulu, Hawai'i",
-      "area": "Computer Science (expected graduation date: Spring 2021)",
+      "area": "Computer Science",
       "studyType": "Bachelor's of Science.",
       "startDate": "2017-09-01",
-      "endDate": "Present",
-      "gpa": "3.24",
+      "endDate": "2021-05-14",
+      "gpa": "3.42",
       "completed courses": ["Database Management(SQL/PHP)", "Data Structures and Algorithms using computational theory", "Software Engineering I(introduction to Javascript, CSS, HTML, Meteor, and React)",
                   "Data Structures involving C# and C++",
-                  "Operating Systems / Computer Architecture", 
+                  "Operating Systems / Computer Architecture", "Assembly x86"
       ]
     },
     {
@@ -116,7 +117,7 @@
       "position": "Java Web Developer",
       "website": "https://www.hawaii.edu/",
       "startDate": "2019-06-01",
-      "endDate": "Present",
+      "endDate": "2021-04-01",
       "summary": "Management and Web development of University of Hawai'i at Manoa websites",
       "highlights": [
         "Developing website application by problem solving issues which requires the use of full stack developmental skills, algorithmic thinking, database management, and teamwork",
